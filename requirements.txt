@@ -1,0 +1,4 @@
+azure-storage-blob==12.19.0
+openai==0.28
+Requests==2.31.0
+streamlit==1.29.0
